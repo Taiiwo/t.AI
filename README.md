@@ -1,4 +1,4 @@
-t.AI
+t.AI - A python toolset for collecting and retrieving data in an attempt to mimmic a learning entity
 ====
 
 Description
